@@ -1,0 +1,28 @@
+.hotel .tags{
+    font-size: 10px;
+}
+.hotel .card-title{
+    font-size: 15px;
+}
+.hotel .rating{
+    background-color: orange;
+    border-radius: 3px;
+    padding: 1px 3px;
+}
+.mybtn{
+    width: 150px;
+}
+#fav_id{
+    position: absolute;
+    right: 7px;
+    top: 0px;
+    font-size: 30px;
+    color: red;
+}
+#not_fav_id{
+    position: absolute;
+    right: 7px;
+    top: 0px;
+    font-size: 30px;
+    color: white;
+}
